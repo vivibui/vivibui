@@ -1,6 +1,15 @@
 ### ✨ Hi there ✨
 
 I am a software engineer based in Texas, USA. 
+
+📫 How to reach me: [vivianbui.work@gmail.com](mailto:vivianbui.work@gmail.com)
+
+🌱 Fun fact: 
+* I am a latte-lover. It's my favorite thing to hangout at the coffee shop. 
+* I love travelling. 
+* I love documentary, fictional, romantic, or career-focused movies. 
+
+
 <!--
 **vivibui/vivibui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
