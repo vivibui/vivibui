@@ -1,7 +1,5 @@
 ### ✨ Hi there ✨
 
-I am a software engineer based in Texas, USA. 
-
 📫 How to reach me: [vivianbui.work@gmail.com](mailto:vivianbui.work@gmail.com)
 
 🌱 Fun fact: 
