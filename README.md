@@ -5,7 +5,7 @@
 🌱 Fun facts: 
 * I am a latte-lover. It's my favorite thing to hangout at the coffee shop. 
 * I love travelling. 
-* I love documentary, fictional, romantic, and career-focused movies. 
+
 
 
 <!--
